@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using Cosmos.SceneManager;
+using App.SceneManager;
 
 public class BootScene : MonoBehaviour
 {

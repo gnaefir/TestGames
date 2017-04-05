@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Cosmos.SceneManager
+namespace App.SceneManager
 {
 	public class SingletonMonoBehaviour<T> : MonoBehaviour where T : SingletonMonoBehaviour<T>
 	{

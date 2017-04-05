@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine.SceneManagement;
 
-namespace Cosmos.SceneManager
+namespace App.SceneManager
 {
 	public class AppSceneManager : SingletonMonoBehaviour<AppSceneManager>
 	{

@@ -49,6 +49,8 @@
      <Compile Include="Assets\Modules\SceneManager\Scripts\AppSceneManager.cs" />
      <Compile Include="Assets\Modules\SceneManager\Scripts\SingletonMonoBehaviour.cs" />
      <Compile Include="Assets\Scenes\BootScene\Scripts\BootScene.cs" />
+     <Compile Include="Assets\Scenes\MainMenuScene\Scripts\MainMenuScene.cs" />
+     <Compile Include="Assets\Scenes\TitleScene\Scripts\TitleScene.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
